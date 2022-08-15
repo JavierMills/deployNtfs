@@ -1,0 +1,30 @@
+{
+    "CatalogoProgramas":[
+        
+    {
+        "Programa": 2451,
+        "Etiqueta": "BX03",
+        "Gar_390": 688761,
+        "Buc_390": 39786117,
+        "Nombre_Nafin": "BANCOMEXT/SANTANDER FINAN MXP 70%",
+        "Modificar": ""
+      },
+      {
+        "Programa": 2454,
+        "Etiqueta": "BX03",
+        "Gar_390": 688761,
+        "Buc_390": 39786119,
+        "Nombre_Nafin": "BANCOMEXT/SANTANDER FINAN MXP 70%",
+        "Modificar": ""
+      },
+      {
+        "Programa": 2453,
+        "Etiqueta": "BX03",
+        "Gar_390": 688764,
+        "Buc_390": 39786118,
+        "Nombre_Nafin": "BANCOMEXT/SANTANDER FINAN MXP 70%",
+        "Modificar": ""
+      }
+  ]
+    
+  }
